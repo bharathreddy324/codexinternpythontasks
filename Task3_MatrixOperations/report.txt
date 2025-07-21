@@ -1,0 +1,6 @@
+Task 3: Matrix Operations Tool using NumPy
+
+- Took two matrices as input from user
+- Performed Addition, Subtraction, Multiplication, Transpose
+- Calculated Determinant if square matrix
+- Used NumPy for all matrix operations

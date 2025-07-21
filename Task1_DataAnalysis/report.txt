@@ -1,0 +1,6 @@
+Task 1: Data Analysis using Pandas and Matplotlib
+
+- Calculated average marks in each subject
+- Visualized subject-wise marks using bar, scatter, and heatmap
+- Found strong correlation between Math and Science
+- Pooja scored the highest in Science (98)

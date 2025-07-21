@@ -1,0 +1,6 @@
+Task 2: House Price Prediction using Linear Regression
+
+- Used number of rooms and size (in sqft) as input features
+- Predicted house price using scikit-learn LinearRegression
+- Visualized predicted vs actual prices
+- Trained on small dataset, good match observed
